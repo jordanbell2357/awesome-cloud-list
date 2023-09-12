@@ -1,3 +1,5 @@
 # awesome-cloud-list
 
-- HashiCorp
+## HashiCorp
+
+## VMware
