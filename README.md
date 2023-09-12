@@ -1,5 +1,5 @@
 # awesome-cloud-list
 
-## HashiCorp
+- [HashiCorp](https://www.hashicorp.com/)
 
-## VMware
+- [VMware](https://www.vmware.com/)
