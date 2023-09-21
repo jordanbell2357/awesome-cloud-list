@@ -16,3 +16,10 @@
 - [HashiCorp Developer](https://developer.hashicorp.com/)
   
 - [Talend Academy](https://academy.talend.com/)
+
+- [Oracle University](https://mylearn.oracle.com/ou/home)
+
+- [Skills for All by Cisco](https://skillsforall.com/)
+
+- [Okta Training](https://www.okta.com/services/training/)
+- 
