@@ -22,4 +22,5 @@
 - [Skills for All by Cisco](https://skillsforall.com/)
 
 - [Okta Training](https://www.okta.com/services/training/)
-- 
+
+- [Datadog Learning Center](https://learn.datadoghq.com/)
