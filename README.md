@@ -1,5 +1,15 @@
 # awesome-platform-training-list
 
+[Asana Academy](https://academy.asana.com/page/all-courses)
+
+[ServiceNow Learning](https://nowlearning.servicenow.com/lxp/en/pages/servicenow)
+
+[Dataiku Academy](https://academy.dataiku.com/)
+
+[IBM Cognitive Class](https://courses.cognitiveclass.ai/dashboard)
+
+[Salesforce Trailhead](https://trailhead.salesforce.com/)
+
 [VMware Digital Learning](https://digitallearning.vmware.com/learn/home)
 
 [Teradata University](https://www.teradata.com/University)
@@ -15,8 +25,6 @@
 [Oracle University](https://mylearn.oracle.com/ou/home)
 
 [Skills for All by Cisco](https://skillsforall.com/)
-
-[Okta Training](https://www.okta.com/services/training/)
 
 [Datadog Learning Center](https://learn.datadoghq.com/)
 
@@ -48,16 +56,16 @@
 
 [UiPath Academy](https://academy.uipath.com/)
 
-[HashiCorp Developer](https://developer.hashicorp.com/)
-
 [Splunk Training and Enablement Platform STEP](https://education.splunk.com/)
 
 [Cloudera Educational Services](https://education.cloudera.com/)
-
-[Talend Academy](https://academy.talend.com/student/catalog)
 
 [Citrix Training](https://training.citrix.com/learning/landing)
 
 [Denodo Training](https://www.denodo.com/en/denodo-platform/services/education/training)
 
 [Atlassian University](https://university.atlassian.com/student/catalog)
+
+[Okta Training](https://www.okta.com/services/training/)
+
+[Redis University](https://university.redis.com/)
