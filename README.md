@@ -35,3 +35,29 @@
 [Adobe Digital Learning Services](https://learning.adobe.com/)
 
 [Anaplan Learning Center](https://learning.anaplan.com/totara/dashboard/index.php)
+
+[H2O.ai Learning Center](https://h2o.ai/resources/solution-brief/h2o-ai-learning-center/)
+
+[Kinetica Learn with Workbooks](https://www.kinetica.com/learn/)
+
+[Applied Data Science From Hitachi Vantara](https://www.hitachivantara.com/en-us/pdf/training/applied-data-science.pdf)
+
+[Learning Pentaho](https://learning.lumada.hitachivantara.com/learn/dashboard)
+
+[Learn with Workday](https://www.workday.com/en-us/customer-experience/learn-with-workday.html)
+
+[UiPath Academy](https://academy.uipath.com/)
+
+[HashiCorp Developer](https://developer.hashicorp.com/)
+
+[Splunk Training and Enablement Platform STEP](https://education.splunk.com/)
+
+[Cloudera Educational Services](https://education.cloudera.com/)
+
+[Talend Academy](https://academy.talend.com/student/catalog)
+
+[Citrix Training](https://training.citrix.com/learning/landing)
+
+[Denodo Training](https://www.denodo.com/en/denodo-platform/services/education/training)
+
+[Atlassian University](https://university.atlassian.com/student/catalog)
