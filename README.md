@@ -1,9 +1,7 @@
-# awesome-cloud-training-list
+# awesome-platform-training-list
 
-- [VMware](https://www.vmware.com/)
 - [VMware Digital Learning](https://digitallearning.vmware.com/learn/home)
 
-- [Teradata](https://www.teradata.com/)
 - [Teradata University](https://www.teradata.com/University)
   
 - [Docker](https://www.docker.com/)
@@ -12,7 +10,6 @@
   
 - [Heroku](https://www.heroku.com/)
   
-
 - [HashiCorp Developer](https://developer.hashicorp.com/)
   
 - [Talend Academy](https://academy.talend.com/)
