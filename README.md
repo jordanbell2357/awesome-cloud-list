@@ -1,5 +1,9 @@
 # awesome-platform-training-list
 
+[Basel LEARN](https://learn.baselgovernance.org/)
+
+[EY Virtual Academy](https://eyvirtualacademy.com/)
+
 [Moody's Analytics Learning Solutions](https://www.moodysanalytics.com/course-catalog-learning-solutions)
 
 [ASCM Supply Chain Knowledge Center](https://learn.ascm.org/s/)
