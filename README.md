@@ -1,5 +1,9 @@
 # awesome-platform-training-list
 
+[Moody's Analytics Learning Solutions](https://www.moodysanalytics.com/course-catalog-learning-solutions)
+
+[ASCM Supply Chain Knowledge Center](https://learn.ascm.org/s/)
+
 [Sumo Logic Learning portal](https://www.sumologic.com/learn/training/)
 
 [Dynatrace University](https://www.dynatrace.com/dynatrace-university/)
