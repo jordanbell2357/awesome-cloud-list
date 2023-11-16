@@ -1,5 +1,9 @@
 # awesome-platform-training-list
 
+[Sumo Logic Learning portal](https://www.sumologic.com/learn/training/)
+
+[Dynatrace University](https://www.dynatrace.com/dynatrace-university/)
+
 [Box University](https://box.csod.com/client/box/default.aspx)
 
 [OneLogin Identity & Access Management 101](https://www.onelogin.com/learn)
