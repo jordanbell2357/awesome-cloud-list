@@ -31,3 +31,7 @@
 [GitLab LevelUp](https://levelup.gitlab.com/catalog)
 
 [Lightbend Academy](https://academy.lightbend.com/)
+
+[Adobe Digital Learning Services](https://learning.adobe.com/)
+
+[Anaplan Learning Center](https://learning.anaplan.com/totara/dashboard/index.php)
