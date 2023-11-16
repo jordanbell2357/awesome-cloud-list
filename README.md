@@ -1,5 +1,11 @@
 # awesome-platform-training-list
 
+[Box University](https://box.csod.com/client/box/default.aspx)
+
+[OneLogin Identity & Access Management 101](https://www.onelogin.com/learn)
+
+[DocuSign University](https://support.docusign.com/docusignuniversity)
+
 [Blue Yonder Education Services](https://blueyonder.com/services/education-services)
 
 [Infor U Campus](https://www.infor.com/mea/services/education)
