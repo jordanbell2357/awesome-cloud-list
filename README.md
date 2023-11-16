@@ -1,5 +1,23 @@
 # awesome-platform-training-list
 
+[monday.com Academy](https://monday.com/helpcenter/academy)
+
+[Domo University](https://www.domo.com/domo-central/university)
+
+[Tableau eLearning](https://elearning.tableau.com/)
+
+[NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/)
+
+[Microsoft Learn](https://learn.microsoft.com/en-us/)
+
+[AWS Skill Builder](https://explore.skillbuilder.aws/learn/home)
+
+[Databricks Customer Academy](https://customer-academy.databricks.com/learn/home)
+
+[ThoughtSpot U](https://training.thoughtspot.com/)
+
+[Snowflake University](https://learn.snowflake.com/en/courses/)
+
 [Asana Academy](https://academy.asana.com/page/all-courses)
 
 [ServiceNow Learning](https://nowlearning.servicenow.com/lxp/en/pages/servicenow)
