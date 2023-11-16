@@ -1,5 +1,15 @@
 # awesome-platform-training-list
 
+[Blue Yonder Education Services](https://blueyonder.com/services/education-services)
+
+[Infor U Campus](https://www.infor.com/mea/services/education)
+
+[openSAP](https://open.sap.com/)
+
+[Google Skillshop](https://skillshop.exceedlms.com/student/catalog)
+
+[Zendesk Training](https://training.zendesk.com/)
+
 [monday.com Academy](https://monday.com/helpcenter/academy)
 
 [Domo University](https://www.domo.com/domo-central/university)
