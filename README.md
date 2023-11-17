@@ -1,5 +1,7 @@
 # awesome-platform-training-list
 
+[1Password University](https://www.1password.university/learn)
+
 [Automation Anywhere University](https://university.automationanywhere.com/)
 
 [Stripe Training](https://www.stripe.training/)
