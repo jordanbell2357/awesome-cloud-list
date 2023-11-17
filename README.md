@@ -1,5 +1,7 @@
 # awesome-platform-training-list
 
+[Dell Education Services](https://education.dell.com/content/emc/en-us/home.html)
+
 [Basel LEARN](https://learn.baselgovernance.org/)
 
 [EY Virtual Academy](https://eyvirtualacademy.com/)
