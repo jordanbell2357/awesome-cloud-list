@@ -1,5 +1,11 @@
 # awesome-platform-training-list
 
+[Akamai Learning Hub](https://www.akamai.com/learn)
+
+[Cloudflare Learning paths](https://developers.cloudflare.com/learning-paths/)
+
+[CrowdStrike University](https://www.crowdstrike.com/crowdstrike-university/)
+
 [1Password University](https://www.1password.university/learn)
 
 [Automation Anywhere University](https://university.automationanywhere.com/)
