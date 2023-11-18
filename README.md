@@ -1,5 +1,7 @@
 # awesome-platform-training-list
 
+[HPE Certification & Learning](https://certification-learning.hpe.com/tr)
+
 [Sage University](https://sageu.com/)
 
 [Qualtrics XM Basecamp](https://basecamp.qualtrics.com/)
