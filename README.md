@@ -1,5 +1,7 @@
 # awesome-platform-training-list
 
+[VMware IT Academy](https://www.vmware.com/company/it-academy.html)
+
 [Lucid Learning campus](https://lucid.co/learning-campus)
 
 [Akamai Learning Hub](https://www.akamai.com/learn)
