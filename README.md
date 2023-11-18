@@ -1,5 +1,9 @@
 # awesome-platform-training-list
 
+[Sage University](https://sageu.com/)
+
+[Qualtrics XM Basecamp](https://basecamp.qualtrics.com/)
+
 [VMware IT Academy](https://www.vmware.com/company/it-academy.html)
 
 [Lucid Learning campus](https://lucid.co/learning-campus)
