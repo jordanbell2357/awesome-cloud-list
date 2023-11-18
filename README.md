@@ -1,5 +1,7 @@
 # awesome-platform-training-list
 
+[Lucid Learning campus](https://lucid.co/learning-campus)
+
 [Akamai Learning Hub](https://www.akamai.com/learn)
 
 [Cloudflare Learning paths](https://developers.cloudflare.com/learning-paths/)
