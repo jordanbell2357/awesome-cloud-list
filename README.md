@@ -94,6 +94,8 @@
 
 [Oracle University](https://mylearn.oracle.com/ou/home)
 
+[Oracle Dev Gym](https://devgym.oracle.com/pls/apex/f?p=10001:20011:17174482101889:::20011::)
+
 [Skills for All by Cisco](https://skillsforall.com/)
 
 [Datadog Learning Center](https://learn.datadoghq.com/)
