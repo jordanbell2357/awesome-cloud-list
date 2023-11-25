@@ -1,5 +1,9 @@
 # awesome-platform-training-list
 
+[ESET Cybersecurity Training](https://www.eset.com/int/business/cybersecurity-training/#form)
+
+[SolarWinds Academy](https://support.solarwinds.com/solarwinds-academy)
+
 [Juniper Networks Learning Portal](https://learningportal.juniper.net/juniper/default.aspx)
 
 [PostgreSQL EDB Training Portal](https://training.enterprisedb.com/learn/home)
