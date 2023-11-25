@@ -1,5 +1,17 @@
 # awesome-platform-training-list
 
+[PostgreSQL EDB Training Portal](https://training.enterprisedb.com/learn/home)
+
+[MicroStrategy Education](https://www.microstrategy.com/en/education)
+
+[Fortinet Training Institute](https://training.fortinet.com/)
+
+[SonicWall University](https://www.sonicwalluniversity.com/)
+
+[Alteryx Maveryx Academy](https://community.alteryx.com/t5/Maveryx-Academy/ct-p/alteryx-academy)
+
+[Palo Alto Networks Education Services](https://www.paloaltonetworks.ca/services/education)
+
 [HPE Certification & Learning](https://certification-learning.hpe.com/tr)
 
 [Sage University](https://sageu.com/)
