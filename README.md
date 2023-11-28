@@ -1,5 +1,9 @@
 # awesome-platform-training-list
 
+[EC-Council Learning](https://codered.eccouncil.org/)
+
+[Linux Foundation Training and Certification](https://training.linuxfoundation.org/)
+
 [ESET Cybersecurity Training](https://www.eset.com/int/business/cybersecurity-training/#form)
 
 [SolarWinds Academy](https://support.solarwinds.com/solarwinds-academy)
