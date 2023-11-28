@@ -1,5 +1,17 @@
 # awesome-platform-training-list
 
+[Netgate Training and Certification for pfSense](https://www.netgate.com/training)
+
+[Datto Academy](https://www.datto.com/learning/)
+
+[Altair Learning](https://learn.altair.com/)
+
+[Liquibase University](https://learn.liquibase.com/index)
+
+[Trellix Training](https://trellix-training.netexam.com/)
+
+[Grafana Labs Tutorials](https://grafana.com/tutorials/)
+
 [BPM Tutorials with ARIS](https://www.ariscommunity.com/university/bpm-tutorials-aris)
 
 [EC-Council Learning](https://codered.eccouncil.org/)
@@ -123,6 +135,8 @@
 [Skills for All by Cisco](https://skillsforall.com/)
 
 [Datadog Learning Center](https://learn.datadoghq.com/)
+
+[DataRobot University](https://learn.datarobot.com/)
 
 [Denodo Community / Training Courses](https://community.denodo.com/training/)
 
