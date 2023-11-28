@@ -1,5 +1,7 @@
 # awesome-platform-training-list
 
+[Digicert University](https://www.digicert.com/tls-ssl/tls-certification-program)
+
 [Android Developers Training](https://developer.android.com/courses/)
 
 [Check Point Software Training & Certification](https://training-certifications.checkpoint.com/#/)
