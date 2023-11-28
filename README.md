@@ -1,5 +1,11 @@
 # awesome-platform-training-list
 
+[Android Developers Training](https://developer.android.com/courses/)
+
+[Check Point Software Training & Certification](https://training-certifications.checkpoint.com/#/)
+
+[Palantir Learning](https://learn.palantir.com/)
+
 [Netgate Training and Certification for pfSense](https://www.netgate.com/training)
 
 [Datto Academy](https://www.datto.com/learning/)
