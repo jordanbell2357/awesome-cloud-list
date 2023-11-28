@@ -1,5 +1,7 @@
 # awesome-platform-training-list
 
+[BPM Tutorials with ARIS](https://www.ariscommunity.com/university/bpm-tutorials-aris)
+
 [EC-Council Learning](https://codered.eccouncil.org/)
 
 [Linux Foundation Training and Certification](https://training.linuxfoundation.org/)
