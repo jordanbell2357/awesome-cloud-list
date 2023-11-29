@@ -1,5 +1,7 @@
 # awesome-platform-training-list
 
+[RSA Student Resources](https://community.rsa.com/t5/student-resources/tkb-p/rsa-university-student-resources)
+
 [Digicert University](https://www.digicert.com/tls-ssl/tls-certification-program)
 
 [Android Developers Training](https://developer.android.com/courses/)
