@@ -1,5 +1,9 @@
 # awesome-platform-training-list
 
+[Varonis Free Security Courses](https://www.varonis.com/free-security-courses)
+
+[OpenEDG Python Institute Study Resources](https://pythoninstitute.org/study-resources)
+
 [RSA Student Resources](https://community.rsa.com/t5/student-resources/tkb-p/rsa-university-student-resources)
 
 [Digicert University](https://www.digicert.com/tls-ssl/tls-certification-program)
@@ -142,6 +146,8 @@
 
 [Oracle Dev Gym](https://devgym.oracle.com/pls/apex/f?p=10001:20011:17174482101889:::20011::)
 
+[Oracle Live SQL](https://livesql.oracle.com/apex/f?p=590:1000::::::)
+
 [Skills for All by Cisco](https://skillsforall.com/)
 
 [Datadog Learning Center](https://learn.datadoghq.com/)
@@ -189,3 +195,9 @@
 [Okta Training](https://www.okta.com/services/training/)
 
 [Redis University](https://university.redis.com/)
+
+## Training Companies
+
+[Cloud Academy](https://cloudacademy.com/)
+
+[DataCamp](https://app.datacamp.com/)
