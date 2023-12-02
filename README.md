@@ -1,5 +1,7 @@
 # awesome-platform-training-list
 
+[SSH Academy](https://www.ssh.com/academy)
+
 [Varonis Free Security Courses](https://www.varonis.com/free-security-courses)
 
 [OpenEDG Python Institute Study Resources](https://pythoninstitute.org/study-resources)
