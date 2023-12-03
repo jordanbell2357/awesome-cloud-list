@@ -206,6 +206,4 @@
 
 ## Training Companies
 
-[Cloud Academy](https://cloudacademy.com/)
-
 [DataCamp](https://app.datacamp.com/)
