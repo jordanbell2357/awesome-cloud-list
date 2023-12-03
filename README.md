@@ -1,5 +1,7 @@
 # awesome-platform-training-list
 
+[ADP Professional Certification](https://education.adp.com/)
+
 [SSH Academy](https://www.ssh.com/academy)
 
 [Varonis Free Security Courses](https://www.varonis.com/free-security-courses)
