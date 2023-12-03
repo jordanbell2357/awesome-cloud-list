@@ -152,6 +152,10 @@
 
 [Skills for All by Cisco](https://skillsforall.com/)
 
+[Cisco Learning Network](https://learningnetwork.cisco.com/s)
+
+[Cisco Networking Academy](https://www.netacad.com/)
+
 [Datadog Learning Center](https://learn.datadoghq.com/)
 
 [DataRobot University](https://learn.datarobot.com/)
