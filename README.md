@@ -1,5 +1,7 @@
 # awesome-platform-training-list
 
+## Platform associated learning sites
+
 [ADP Professional Certification](https://education.adp.com/)
 
 [SSH Academy](https://www.ssh.com/academy)
@@ -31,10 +33,6 @@
 [Grafana Labs Tutorials](https://grafana.com/tutorials/)
 
 [BPM Tutorials with ARIS](https://www.ariscommunity.com/university/bpm-tutorials-aris)
-
-[EC-Council Learning](https://codered.eccouncil.org/)
-
-[Linux Foundation Training and Certification](https://training.linuxfoundation.org/)
 
 [ESET Cybersecurity Training](https://www.eset.com/int/business/cybersecurity-training/#form)
 
@@ -204,6 +202,10 @@
 
 [Redis University](https://university.redis.com/)
 
-## Training Companies
+## Training Organizations
+
+[EC-Council Learning](https://codered.eccouncil.org/)
+
+[Linux Foundation Training and Certification](https://training.linuxfoundation.org/)
 
 [DataCamp](https://app.datacamp.com/)
