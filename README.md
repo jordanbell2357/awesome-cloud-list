@@ -2,6 +2,8 @@
 
 ## Platform associated learning sites
 
+[Zscaler Academy](https://www.zscaler.com/zscaler-academy)
+
 [Esri Academy](https://www.esri.com/training/)
 
 [InterSystems Learning](https://learning.intersystems.com/)
@@ -63,6 +65,8 @@
 [Qualtrics XM Basecamp](https://basecamp.qualtrics.com/)
 
 [VMware IT Academy](https://www.vmware.com/company/it-academy.html)
+
+[VMware Hands-on Labs](https://www.learningplatform.vmware.com/HOL/)
 
 [Lucid Learning campus](https://lucid.co/learning-campus)
 
