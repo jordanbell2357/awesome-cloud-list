@@ -222,6 +222,10 @@
 
 [Linux Foundation Training and Certification](https://training.linuxfoundation.org/)
 
+[ISACA Training](https://www.isaca.org/training-and-events)
+
+[ISC2](https://www.isc2.org/)
+
 [Infosec Skills](https://www.infosecinstitute.com/skills/)
 
 [DataCamp](https://app.datacamp.com/)
