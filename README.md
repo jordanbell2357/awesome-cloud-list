@@ -2,6 +2,10 @@
 
 ## Platform associated learning sites
 
+[Esri Academy](https://www.esri.com/training/)
+
+[InterSystems Learning](https://learning.intersystems.com/)
+
 [ADP Professional Certification](https://education.adp.com/)
 
 [SSH Academy](https://www.ssh.com/academy)
