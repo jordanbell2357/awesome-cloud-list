@@ -68,6 +68,8 @@
 
 [VMware Hands-on Labs](https://www.learningplatform.vmware.com/HOL/)
 
+[VMware Odyssey Labs](https://www.vmware.com/try-vmware/try-vmware-odyssey-labs.html)
+
 [Lucid Learning campus](https://lucid.co/learning-campus)
 
 [Akamai Learning Hub](https://www.akamai.com/learn)
