@@ -222,4 +222,6 @@
 
 [Linux Foundation Training and Certification](https://training.linuxfoundation.org/)
 
+[Infosec Skills](https://www.infosecinstitute.com/skills/)
+
 [DataCamp](https://app.datacamp.com/)
