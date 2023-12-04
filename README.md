@@ -102,6 +102,12 @@
 
 [Google Skillshop](https://skillshop.exceedlms.com/student/catalog)
 
+[Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths)
+
+[Google Cloud Certification](https://cloud.google.com/learn/certification?hl=en)
+
+[Google Career Certificates](https://grow.google/intl/ALL_ca/certificates/#?modal_active=none)
+
 [Zendesk Training](https://training.zendesk.com/)
 
 [monday.com Academy](https://monday.com/helpcenter/academy)
