@@ -2,6 +2,8 @@
 
 ## Platform associated learning sites
 
+[Venafi Academy](https://warrioracademy.venafi.com/)
+
 [Zscaler Academy](https://www.zscaler.com/zscaler-academy)
 
 [Esri Academy](https://www.esri.com/training/)
@@ -231,3 +233,5 @@
 [Infosec Skills](https://www.infosecinstitute.com/skills/)
 
 [DataCamp](https://app.datacamp.com/)
+
+[Server Academy](https://www.serveracademy.com/)
