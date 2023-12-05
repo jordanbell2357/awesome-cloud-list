@@ -230,6 +230,10 @@
 
 [ISC2](https://www.isc2.org/)
 
+# Tutorial platforms
+
+[Earth Lab](https://www.earthdatascience.org/)
+
 [Infosec Skills](https://www.infosecinstitute.com/skills/)
 
 [DataCamp](https://app.datacamp.com/)
