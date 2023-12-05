@@ -218,6 +218,8 @@
 
 [Okta Training](https://www.okta.com/services/training/)
 
+[Okta Learning Portal](https://okta.csod.com/LMS/catalog/Welcome.aspx?)
+
 [Redis University](https://university.redis.com/)
 
 ## Training Organizations
