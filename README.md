@@ -130,6 +130,8 @@
 
 [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/)
 
+[NVIDIA Academy](https://academy.nvidia.com/en/)
+
 [Microsoft Learn](https://learn.microsoft.com/en-us/)
 
 [AWS Skill Builder](https://explore.skillbuilder.aws/learn/home)
