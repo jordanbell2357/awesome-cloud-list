@@ -154,7 +154,7 @@
 
 [IBM Cognitive Class](https://courses.cognitiveclass.ai/dashboard)
 
-[IBM SkillsBuild](https://skillsbuild.org/)
+[IBM SkillsBuild](https://skills.yourlearning.ibm.com/)
 
 [Salesforce Trailhead](https://trailhead.salesforce.com/)
 
