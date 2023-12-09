@@ -2,6 +2,10 @@
 
 ## Platform associated learning sites
 
+[Intel® Cloud.U](https://www.intel.com/content/www/us/en/cloud-computing/cloudu/overview.html)
+
+[Nacha Learning](https://paymentsiq.nacha.org/)
+
 [Qualys Certification and Training Center](https://www.qualys.com/training/)
 
 [Ping Identity Training](https://www.pingidentity.com/en/support/training.html)
