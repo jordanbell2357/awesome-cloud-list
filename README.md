@@ -2,6 +2,10 @@
 
 ## Platform associated learning sites
 
+[Qualys Certification and Training Center](https://www.qualys.com/training/)
+
+[Ping Identity Training](https://www.pingidentity.com/en/support/training.html)
+
 [Venafi Academy](https://warrioracademy.venafi.com/)
 
 [Zscaler Academy](https://www.zscaler.com/zscaler-academy)
@@ -149,6 +153,8 @@
 [Dataiku Academy](https://academy.dataiku.com/)
 
 [IBM Cognitive Class](https://courses.cognitiveclass.ai/dashboard)
+
+[IBM SkillsBuild](https://skillsbuild.org/)
 
 [Salesforce Trailhead](https://trailhead.salesforce.com/)
 
