@@ -68,6 +68,8 @@
 
 [Palo Alto Networks Education Services](https://www.paloaltonetworks.ca/services/education)
 
+[Palo Alto Networks Beacon](https://beacon.paloaltonetworks.com/student/catalog)
+
 [HPE Certification & Learning](https://certification-learning.hpe.com/tr)
 
 [Sage University](https://sageu.com/)
