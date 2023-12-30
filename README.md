@@ -2,6 +2,8 @@
 
 ## Platform associated learning sites
 
+[Neo4j GraphAcademy](https://graphacademy.neo4j.com/)
+
 [Intel® Cloud.U](https://www.intel.com/content/www/us/en/cloud-computing/cloudu/overview.html)
 
 [Nacha Learning](https://paymentsiq.nacha.org/)
