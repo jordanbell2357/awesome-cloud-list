@@ -2,6 +2,8 @@
 
 ## Platform associated learning sites
 
+[Hugging Face](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
+
 [Neo4j GraphAcademy](https://graphacademy.neo4j.com/)
 
 [Intel® Cloud.U](https://www.intel.com/content/www/us/en/cloud-computing/cloudu/overview.html)
