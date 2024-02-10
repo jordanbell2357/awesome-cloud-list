@@ -2,6 +2,8 @@
 
 ## Platform associated learning sites
 
+[DataStax Academy](https://www.datastax.com/academy)
+
 [Hugging Face](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
 
 [Neo4j GraphAcademy](https://graphacademy.neo4j.com/)
