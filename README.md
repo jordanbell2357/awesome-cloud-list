@@ -2,6 +2,8 @@
 
 ## Platform associated learning sites
 
+[Apollo Odyssey GraphQL tutorials](https://www.apollographql.com/tutorials/)
+
 [DataStax Academy](https://www.datastax.com/academy)
 
 [Hugging Face](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
