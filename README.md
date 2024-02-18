@@ -2,6 +2,8 @@
 
 ## Platform associated learning sites
 
+[MongoDB University](https://learn.mongodb.com/)
+
 [Apollo Odyssey GraphQL tutorials](https://www.apollographql.com/tutorials/)
 
 [DataStax Academy](https://www.datastax.com/academy)
