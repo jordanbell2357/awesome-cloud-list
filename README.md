@@ -2,6 +2,8 @@
 
 ## Platform associated learning sites
 
+[Confluent Training and Certification](https://training.confluent.io/)
+
 [MongoDB University](https://learn.mongodb.com/)
 
 [Apollo Odyssey GraphQL tutorials](https://www.apollographql.com/tutorials/)
