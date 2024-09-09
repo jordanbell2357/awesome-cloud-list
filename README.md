@@ -2,6 +2,14 @@
 
 ## Platform associated learning sites
 
+[Traefik Academy](https://academy.traefik.io/)
+
+[ScyllaDB University](https://university.scylladb.com/)
+
+[Dynatrace University](https://www.dynatrace.com/dynatrace-university/)
+
+[dbt Learn](https://learn.getdbt.com/)
+
 [Confluent Training and Certification](https://training.confluent.io/)
 
 [MongoDB University](https://learn.mongodb.com/)
@@ -262,8 +270,4 @@
 
 [Earth Lab](https://www.earthdatascience.org/)
 
-[Infosec Skills](https://www.infosecinstitute.com/skills/)
 
-[DataCamp](https://app.datacamp.com/)
-
-[Server Academy](https://www.serveracademy.com/)
