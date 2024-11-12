@@ -2,6 +2,8 @@
 
 ## Platform associated learning sites
 
+[Free RabbitMQ Training Course - by CloudAMQP](https://training.cloudamqp.com/)
+
 [Traefik Academy](https://academy.traefik.io/)
 
 [ScyllaDB University](https://university.scylladb.com/)
