@@ -2,6 +2,8 @@
 
 ## Platform associated learning sites
 
+[Dremio University](https://university.dremio.com/)
+
 [Free RabbitMQ Training Course - by CloudAMQP](https://training.cloudamqp.com/)
 
 [Traefik Academy](https://academy.traefik.io/)
