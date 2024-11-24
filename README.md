@@ -2,6 +2,8 @@
 
 ## Platform associated learning sites
 
+[InfluxDB University](https://www.influxdata.com/university/)
+
 [Ikigai Academy](https://academy.ikigailabs.io/pages/home)
 
 [Isovalent Getting Started with Cilium](https://isovalent.com/labs/cilium-getting-started/)
