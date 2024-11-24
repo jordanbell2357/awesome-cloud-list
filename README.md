@@ -2,6 +2,10 @@
 
 ## Platform associated learning sites
 
+[Ikigai Academy](https://academy.ikigailabs.io/pages/home)
+
+[Isovalent Getting Started with Cilium](https://isovalent.com/labs/cilium-getting-started/)
+
 [GridGain University](https://university.gridgain.com/)
 
 [Starburst Academy](https://academy.starburst.io/)
