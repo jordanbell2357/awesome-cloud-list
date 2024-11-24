@@ -2,6 +2,10 @@
 
 ## Platform associated learning sites
 
+[GridGain University](https://university.gridgain.com/)
+
+[Starburst Academy](https://academy.starburst.io/)
+
 [Dremio University](https://university.dremio.com/)
 
 [Free RabbitMQ Training Course - by CloudAMQP](https://training.cloudamqp.com/)
